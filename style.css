@@ -1,0 +1,49 @@
+.menu-header a.nav-item {
+    margin-right: 15px;
+}
+
+.menu-header a.nav-item:hover {
+    text-decoration: underline;
+}
+
+section {
+    margin-top: 90px;
+    margin-bottom: 90px;
+}
+
+.fasilitas {
+    width: 100%;
+    border-radius: 10px;
+    padding: 20px;
+    box-sizing: border-box;
+    box-shadow: 0 0 10px rgba(0,0,0,0.6);
+    display: flex;
+    align-items: center;
+    transition: .3s;
+    background: transparent;
+}
+
+.fasilitas:hover {
+    background: #dc3545;
+    color: white;
+}
+
+.fasilitas .description {
+    flex: 3 1;
+    padding: 10px 20px 10px 10px;
+    text-align: right;
+}
+
+.fasilitas .icon-des {
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    background-color: #dc3545;
+    transition: .3s;
+    transform: scale(0);
+}
+
+.fasilitas:hover .icon-des {
+    background: white;
+    transform: scale(1);
+}
