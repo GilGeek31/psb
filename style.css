@@ -7,7 +7,7 @@
 }
 
 section {
-    margin-top: 90px;
+    margin-top: 70px;
     margin-bottom: 90px;
 }
 
@@ -15,17 +15,24 @@ section {
     width: 100%;
     border-radius: 10px;
     padding: 20px;
+    margin-bottom: 16px;
     box-sizing: border-box;
-    box-shadow: 0 0 10px rgba(0,0,0,0.6);
     display: flex;
     align-items: center;
     transition: .3s;
     background: transparent;
 }
 
+.fasilitas.active {
+    background: #dc3545;
+    color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+}
+
 .fasilitas:hover {
     background: #dc3545;
     color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
 }
 
 .fasilitas .description {
@@ -34,16 +41,47 @@ section {
     text-align: right;
 }
 
+.fasilitas .description.icon-left {
+    order: 1;
+    text-align: left;
+}
+
 .fasilitas .icon-des {
     height: 80px;
     width: 80px;
     border-radius: 50%;
     background-color: #dc3545;
     transition: .3s;
-    transform: scale(0);
+}
+
+.fasilitas .icon-des img {
+    margin-top: 15px;
+    height: 50px;
+    width: auto;
 }
 
 .fasilitas:hover .icon-des {
     background: white;
-    transform: scale(1);
+}
+
+.fasilitas.active .icon-des {
+    background: white;
+}
+
+.tentang-kami .description {
+    line-height: 1.8;
+    font-size: 17px;
+    color: #555
+}
+
+ul.social {
+    list-style: none;
+    padding-left: 0;
+    display: flex;
+}
+
+ul.social li {
+    margin-right: 16px;
+    width: 40px;
+    height: 40px;
 }
