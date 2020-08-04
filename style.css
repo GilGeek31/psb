@@ -2,3 +2,58 @@ section {
     margin-top: 70px;
     margin-bottom: 90px;
 }
+
+.fasilitas {
+    width: 100%;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 16px;
+    display: flex;
+    align-items: center;
+    /* background: transparent; */
+}
+
+.fasilitas:hover {
+    background: #dc3545;
+    color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+}
+
+.fasilitas.active {
+    background: #dc3545;
+    color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+}
+
+.fasilitas .description {
+    text-align: right;
+    flex: 3 1;
+    padding: 10px 20px 10px 10px;
+}
+
+.fasilitas .description.icon-left {
+    order: 1;
+    text-align: left;
+}
+
+.fasilitas .icon-des {
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    background-color: #dc3545;
+
+}
+
+.fasilitas:hover .icon-des {
+    background: white;
+}
+
+.fasilitas.active .icon-des {
+    background: white;
+}
+
+.fasilitas .icon-des img {
+    margin-top: 15px;
+    height: 50px;
+    width: auto;
+}
