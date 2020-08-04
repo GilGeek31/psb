@@ -147,25 +147,106 @@
                     <ul class="social">
                         <li>
                             <a href="">
-                                <img src="assets/img/icons/telephone.svg" alt="telephone" class="img-fluid">
+                                <img src="assets/img/icons/telephone.svg" alt="telephone">
                             </a>
                         </li>
                         <li>
                             <a href="">
-                                <img src="assets/img/icons/email.svg" alt="email" class="img-fluid">
+                                <img src="assets/img/icons/email.svg" alt="email">
                             </a>
                         </li>
                         <li>
                             <a href="">
-                                <img src="assets/img/icons/internet.svg" alt="internet" class="img-fluid">
+                                <img src="assets/img/icons/internet.svg" alt="internet">
                             </a>
                         </li>
                         <li>
                             <a href="">
-                                <img src="assets/img/icons/facebook.svg" alt="facebook" class="img-fluid">
+                                <img src="assets/img/icons/facebook.svg" alt="facebook">
                             </a>
                         </li>
                     </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="bg-danger pt-5 pb-5">
+        <div class="container">
+            <h3 class="text-center text-white mb-4">STATISTIK PENDAFTAR GELOMBANG 1</h3>
+
+            <div class="row">
+                <div class="col-md-4 text-center">
+                    <h6 class="h1 text-white">394</h6>
+                    <p class="text-white">TOTAL PENDAFTAR</p>
+                </div>
+                <div class="col-md-4 text-center">
+                    <h6 class="h1 text-white">194</h6>
+                    <p class="text-white">PENDAFTAR LAKI-LAKI</p>
+                </div>
+                <div class="col-md-4 text-center">
+                    <h6 class="h1 text-white">200</h6>
+                    <p class="text-white">PENDAFTAR PEREMPUAN</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <div class="container">
+            <h3 class="text-center font-weight-bold mb-3">JADWAL PENDAFTARAN</h3>
+            <div class="row">
+                <div class="col-md-6 text-center mb-5">
+                    <button class="btn btn-danger btn-lg rounded-pill mb-4">JADWAL</button>
+                    <h6 class="h1 mb-3">GEL 1</h6>
+                    <p class="font-weight-bold mb-0">Pendaftaran</p>
+                    <span class="text-muted">14 Okt 2020 - 06 Des 2020</span>
+
+                    <p class="font-weight-bold mb-0 mt-3">Tes Akademik dan Non Akademik</p>
+                    <span class="text-muted">14 Okt 2020 - 06 Des 2020</span>
+
+                    <p class="font-weight-bold mb-0 mt-3">Pengumuman</p>
+                    <span class="text-muted">14 Okt 2020 - 06 Des 2020</span>
+
+                    <p class="font-weight-bold mb-0 mt-3">Daftar Ulang</p>
+                    <span class="text-muted">14 Okt 2020 - 06 Des 2020</span>
+                </div>
+                <div class="col-md-6 text-center mb-5">
+                    <button class="btn btn-danger btn-lg rounded-pill mb-4">JADWAL</button>
+                    <h6 class="h1 mb-3">GEL 2</h6>
+                    <p class="font-weight-bold mb-0">Pendaftaran</p>
+                    <span class="text-muted">14 Okt 2020 - 06 Des 2020</span>
+
+                    <p class="font-weight-bold mb-0 mt-3">Tes Akademik dan Non Akademik</p>
+                    <span class="text-muted">14 Okt 2020 - 06 Des 2020</span>
+
+                    <p class="font-weight-bold mb-0 mt-3">Pengumuman</p>
+                    <span class="text-muted">14 Okt 2020 - 06 Des 2020</span>
+
+                    <p class="font-weight-bold mb-0 mt-3">Daftar Ulang</p>
+                    <span class="text-muted">14 Okt 2020 - 06 Des 2020</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="alumni">
+        <div class="container">
+            <h3 class="text-center font-weight-bold mb-3">Apa Kata Alumni ?</h3>
+            <p class="text-center">Beberapa testimoni dari para alumni yang telah merasakan manfaat dengan  <br />belajar di SMK Negeri Darul Ulum Muncar.</p>
+
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="card">
+                        <div class="card-body">
+                            <img src="assets/img/profile.jpg" alt="foto alumni">
+
+                            <p class="text-center">Tidak hanya akademis yang sempurna, di SMK Telkom Malang saya ditempa untuk memiliki jiwa entrepreneur yang berkarakter kuat. Sehingga setelah lulus saya bisa survive dan mandiri dengan usaha yang saya bangun di sekolah.</p>
+
+                            <p class="mt-3 font-weight-bold">EDI SISWANTO</p>
+                            <span class="text-muted">Web Developer, Traviora</span>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
