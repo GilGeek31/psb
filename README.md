@@ -1,4 +1,4 @@
-# pendaftaran
+# PPDB Online Sekolah
 Aplikasi Pendaftaran Siswa Baru - Youtube #EDT
 
 Video tutorial :
