@@ -139,7 +139,7 @@
                 </div>
                 <div class="col-md-6">
                     <h3 class="mt-5 mb-3 font-weight-bold">TENTANG SMKNDU</h3>
-                    <p class="description mb-5">
+                    <p class="description mb-4">
                         SMKNDU Adalah Sekolah menengah kejuruan negeri yang berdiri sejak 2003. SMKNDU Adalah Sekolah menengah kejuruan negeri yang berdiri sejak 2003. SMKNDU Adalah Sekolah menengah kejuruan negeri yang berdiri sejak 2003. SMKNDU Adalah Sekolah menengah kejuruan negeri yang berdiri sejak 2003. 
                     </p>
 
@@ -236,14 +236,38 @@
             <p class="text-center">Beberapa testimoni dari para alumni yang telah merasakan manfaat dengan  <br />belajar di SMK Negeri Darul Ulum Muncar.</p>
 
             <div class="row">
-                <div class="col-md-4">
+                <div class="col-md-4 mb-3">
                     <div class="card">
                         <div class="card-body">
-                            <img src="assets/img/profile.jpg" alt="foto alumni">
+                            <img src="assets/img/avatar.jpg" alt="foto alumni">
 
                             <p class="text-center">Tidak hanya akademis yang sempurna, di SMK Telkom Malang saya ditempa untuk memiliki jiwa entrepreneur yang berkarakter kuat. Sehingga setelah lulus saya bisa survive dan mandiri dengan usaha yang saya bangun di sekolah.</p>
 
-                            <p class="mt-3 font-weight-bold">EDI SISWANTO</p>
+                            <p class="mt-3 mb-0 font-weight-bold">EDI SISWANTO</p>
+                            <span class="text-muted">Web Developer, Traviora</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 mb-3">
+                    <div class="card">
+                        <div class="card-body">
+                            <img src="assets/img/avatar.jpg" alt="foto alumni">
+
+                            <p class="text-center">Tidak hanya akademis yang sempurna, di SMK Telkom Malang saya ditempa untuk memiliki jiwa entrepreneur yang berkarakter kuat. Sehingga setelah lulus saya bisa survive dan mandiri dengan usaha yang saya bangun di sekolah.</p>
+
+                            <p class="mt-3 mb-0 font-weight-bold">EDI SISWANTO</p>
+                            <span class="text-muted">Web Developer, Traviora</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 mb-3">
+                    <div class="card">
+                        <div class="card-body">
+                            <img src="assets/img/avatar.jpg" alt="foto alumni">
+
+                            <p class="text-center">Tidak hanya akademis yang sempurna, di SMK Telkom Malang saya ditempa untuk memiliki jiwa entrepreneur yang berkarakter kuat. Sehingga setelah lulus saya bisa survive dan mandiri dengan usaha yang saya bangun di sekolah.</p>
+
+                            <p class="mt-3 mb-0 font-weight-bold">EDI SISWANTO</p>
                             <span class="text-muted">Web Developer, Traviora</span>
                         </div>
                     </div>
@@ -251,6 +275,42 @@
             </div>
         </div>
     </section>
+
+    <footer>
+        <div class="container">
+            <div class="row pt-5 pb-5">
+                <div class="col-md-4 mb-3">
+                    <h3>SMKN DU MUNCAR</h3>
+                    <ul class="list-footer">
+                        <li>
+                            Sumber beras Kec. Muncar kab. Banyuwangi
+                        </li>
+                        <li>082302002407</li>
+                        <li>info@smkndu-muncar.sch.id</li>
+                    </ul>
+                </div>
+                <div class="col-md-3 mb-3">
+                    <h3>Kontak Panitia</h3>
+                    <ul class="list-footer">
+                        <li>
+                            Adam: 081123456789
+                        </li>
+                        <li>Warmi: 081123456789</li>
+                        <li>Seno: 081123456789</li>
+                        Elfin: 081123456789
+                    </ul>
+                </div>
+                <div class="col-md-5 mb-3">
+                    <div class="google-maps">
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3946.186171362546!2d114.33196151404525!3d-8.481271193901996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd3fceaaaaaaaab%3A0x5b79c57b0f9bcac0!2sSMKN%20Darul%20Ulum!5e0!3m2!1sid!2sid!4v1596676516752!5m2!1sid!2sid" width="400" height="300" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <p class="m-0 pt-3 pb-4 text-center">
+                Copyright 2020 | <a href="https://edikode.github.io" target="_blank" class="text-white">Edikode</a></p>
+    </footer>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
