@@ -57,3 +57,25 @@ section {
     height: 50px;
     width: auto;
 }
+
+.tentang .deskripsi {
+    font-size: 18px;
+    line-height: 25px;
+}
+
+.tentang ul.social {
+    list-style: none;
+    display: inline-flex;
+    padding: 0;
+}
+
+.tentang ul.social li {
+    width: 40px;
+    height: 40px;
+    margin-right: 16px;
+}
+
+ul.social img {
+    height: 100%;
+    width: 100%;
+}
