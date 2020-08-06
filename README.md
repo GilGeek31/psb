@@ -1,9 +1,11 @@
 # pendaftaran
 Aplikasi Pendaftaran Siswa Baru - Youtube #EDT
 
+Video tutorial :
 https://www.youtube.com/watch?v=RtTqVmfNb-Y&list=PLusV1iDWr_sB3MEXgXOhW9BOwTD_cZxfp
 
-http://e-development.tech/
+Demo Landing Page :
+https://edikode.github.io/pendaftaran-yt/
 
 Menggunakan :
 - Template SB-Admin 2
@@ -16,7 +18,8 @@ Pengguna :
 - User : Admin, Siswa
 
 Lingkup Aplikasi :
-- Registrasi Siswa
+- Landing Page Pendaftaran
+- registrasi Siswa
 - Dashboard Siswa dan Admin
 - Edit Profil Siswa
 - Login Sistem
