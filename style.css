@@ -79,3 +79,50 @@ ul.social img {
     height: 100%;
     width: 100%;
 }
+
+.alumni .card {
+    transition: .3s;
+}
+
+.alumni .card:hover {
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.4);
+    transform: translateY(-10px);
+
+}
+
+.alumni .card .card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.alumni .card .card-body img {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    border: 2px solid rgba(0, 0, 0, 0.6);
+    margin-bottom: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.4);
+}
+
+footer {
+    background-color: #272727;
+    color: #fff;
+}
+
+footer h3 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 16px;
+}
+
+footer ul {
+    list-style: none;
+    padding: 0;
+    color: #fff;
+}
+
+footer ul li {
+    margin-bottom: 5px;
+}
