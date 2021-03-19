@@ -1,5 +1,5 @@
 # PPDB Online Sekolah
-Aplikasi Pendaftaran Siswa Baru - Youtube #EDT
+Aplikasi Pendaftaran Siswa Baru - Youtube #edicode
 
 Video tutorial :
 https://www.youtube.com/watch?v=RtTqVmfNb-Y&list=PLusV1iDWr_sB3MEXgXOhW9BOwTD_cZxfp
