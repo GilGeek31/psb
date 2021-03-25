@@ -105,3 +105,24 @@ ul.social img {
     margin-bottom: 20px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.4);
 }
+
+footer {
+    background-color: #272727;
+    color: #fff;
+}
+
+footer h3 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 16px;
+}
+
+footer ul {
+    list-style: none;
+    padding: 0;
+    color: #fff;
+}
+
+footer ul li {
+    margin-bottom: 5px;
+}
